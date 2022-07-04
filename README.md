@@ -1,2 +1,4 @@
-# python-mini-projects
-A collection of mini projects created while learning python or otherwise
+# Python Mini Projects
+A repository of all my mini projects coded in Python with full documentation.
+
+## Projects - 
